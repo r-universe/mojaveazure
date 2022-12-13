@@ -1,10 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mojaveazure/universe
 	shallow = true
 	branch = HEAD
-[submodule "SeuratObject"]
-	path = SeuratObject
-	url = https://github.com/mojaveazure/seurat-object
+[submodule "mamisc"]
+	path = mamisc
+	url = https://github.com/mojaveazure/mamisc
 	shallow = true
 	registered = true
