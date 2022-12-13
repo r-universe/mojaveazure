@@ -8,3 +8,8 @@
 	url = https://github.com/mojaveazure/mamisc
 	shallow = true
 	registered = true
+[submodule "ggseurat"]
+	path = ggseurat
+	url = https://github.com/mojaveazure/ggseurat
+	shallow = true
+	registered = true

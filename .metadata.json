@@ -1,5 +1,8 @@
 [
   {
     "package": "mamisc"
+  },
+  {
+    "package": "ggseurat"
   }
 ]
