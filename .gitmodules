@@ -1,15 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mojaveazure/universe
-	shallow = true
 	branch = HEAD
-[submodule "mamisc"]
-	path = mamisc
-	url = https://github.com/mojaveazure/mamisc
-	shallow = true
-	registered = true
 [submodule "ggseurat"]
 	path = ggseurat
 	url = https://github.com/mojaveazure/ggseurat
-	shallow = true
-	registered = true
+[submodule "mamisc"]
+	path = mamisc
+	url = https://github.com/mojaveazure/mamisc
+[submodule "pbmc3k.sce"]
+	path = pbmc3k.sce
+	url = https://github.com/mojaveazure/pbmc3k-sce
