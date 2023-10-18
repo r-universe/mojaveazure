@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/mojaveazure/universe
 	branch = HEAD
+[submodule "SeuratObject"]
+	path = SeuratObject
+	url = https://github.com/mojaveazure/seurat-object
+	branch = @v4.1.4
 [submodule "ggseurat"]
 	path = ggseurat
 	url = https://github.com/mojaveazure/ggseurat
