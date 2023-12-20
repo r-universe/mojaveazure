@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "SeuratObject"]
 	path = SeuratObject
-	url = https://github.com/mojaveazure/seurat-object
+	url = https://github.com/satijalab/seurat-object
 	branch = develop
 [submodule "ggseurat"]
 	path = ggseurat
