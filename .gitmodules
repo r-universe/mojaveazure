@@ -15,3 +15,7 @@
 [submodule "pbmc3k.sce"]
 	path = pbmc3k.sce
 	url = https://github.com/mojaveazure/pbmc3k-sce
+[submodule "tiledb"]
+	path = tiledb
+	url = https://github.com/TileDB-Inc/TileDB-R
+	branch = 0.22.0
