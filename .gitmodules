@@ -15,6 +15,10 @@
 [submodule "pbmc3k.sce"]
 	path = pbmc3k.sce
 	url = https://github.com/mojaveazure/pbmc3k-sce
+[submodule "remotes"]
+	path = remotes
+	url = https://github.com/mojaveazure/remotes
+	branch = feat/install-version-binaries
 [submodule "tiledb"]
 	path = tiledb
 	url = https://github.com/TileDB-Inc/TileDB-R
