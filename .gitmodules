@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mojaveazure/universe
+	url = https://github.com/mojaveazure/mojaveazure.r-universe.dev
 	branch = HEAD
 [submodule "SeuratObject"]
 	path = SeuratObject
