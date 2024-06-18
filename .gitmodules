@@ -16,6 +16,9 @@
 [submodule "mamisc"]
 	path = mamisc
 	url = https://github.com/mojaveazure/mamisc
+[submodule "pbmc3k"]
+	path = pbmc3k
+	url = https://github.com/mojaveazure/pbmc3k
 [submodule "pbmc3k.sce"]
 	path = pbmc3k.sce
 	url = https://github.com/mojaveazure/pbmc3k-sce
