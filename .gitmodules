@@ -29,11 +29,9 @@
 [submodule "tiledb"]
 	path = tiledb
 	url = https://github.com/TileDB-Inc/TileDB-R
-	branch = 0.24.0
 [submodule "tiledbsoma"]
 	path = tiledbsoma
 	url = https://github.com/single-cell-data/TileDB-SOMA
-	branch = ph/test/doublepin
 	subdir = apis/r
 [submodule "tinyexpect"]
 	path = tinyexpect
