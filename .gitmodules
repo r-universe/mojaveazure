@@ -27,7 +27,6 @@
 [submodule "SeuratObject"]
 	path = SeuratObject
 	url = https://github.com/satijalab/seurat-object
-	branch = develop
 [submodule "SparseArray"]
 	path = SparseArray
 	url = https://github.com/Bioconductor/SparseArray
