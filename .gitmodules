@@ -30,6 +30,9 @@
 [submodule "SparseArray"]
 	path = SparseArray
 	url = https://github.com/Bioconductor/SparseArray
+[submodule "cbmc"]
+	path = cbmc
+	url = https://github.com/mojaveazure/cbmc
 [submodule "ggseurat"]
 	path = ggseurat
 	url = https://github.com/mojaveazure/ggseurat
