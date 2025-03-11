@@ -14,6 +14,9 @@
 [submodule "MatrixGenerics"]
 	path = MatrixGenerics
 	url = https://github.com/Bioconductor/MatrixGenerics
+[submodule "MetaboAnalystR"]
+	path = MetaboAnalystR
+	url = https://github.com/xia-lab/MetaboAnalystR
 [submodule "S4Arrays"]
 	path = S4Arrays
 	url = https://github.com/Bioconductor/S4Arrays
