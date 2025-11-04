@@ -52,9 +52,6 @@
 	path = remotes
 	url = https://github.com/mojaveazure/remotes
 	branch = feat/install-version-binaries
-[submodule "tiledb"]
-	path = tiledb
-	url = https://github.com/TileDB-Inc/TileDB-R
 [submodule "tiledbsoma"]
 	path = tiledbsoma
 	url = https://github.com/single-cell-data/TileDB-SOMA
